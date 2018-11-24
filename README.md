@@ -1,0 +1,2 @@
+# satuduasatu
+pembuatan script
